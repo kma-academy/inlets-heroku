@@ -11,7 +11,7 @@ set /p INLETS_VERSION=<inlets_version
 cd bin
 
 if not exist inlets.exe (
-  wget.exe https://github.com/inlets/inlets/releases/download/%INLETS_VERSION%/inlets.exe -O inlets.exe
+  wget.exe https://github.com/inlets/inlets-pro/releases/download/%INLETS_VERSION%/inlets-pro.exe -O inlets.exe
 )
 
 inlets.exe client --remote="%REMOTE%" --token "%TOKEN%" --upstream=http://127.0.0.1:%LOCALPORT%
