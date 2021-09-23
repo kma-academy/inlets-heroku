@@ -7,4 +7,4 @@ if [ ! -f "./bin/inlets" ]; then
 fi
 
 chmod a+x ./bin/inlets
-./bin/inlets server --port=$PORT --token="$TOKEN"
+./bin/inlets server --token="$TOKEN" --control-port=$PORT --auto-tls-san --auto-tls
