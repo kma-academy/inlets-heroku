@@ -1,8 +1,8 @@
 {
   "name": "Inlets Reverse Proxy",
   "description": "Using inlets as a service tunnel and reverse proxy",
-  "repository": "https://github.com/ngxson/inlets-heroku.git",
-  "website": "https://github.com/ngxson/inlets-heroku",
+  "repository": "https://github.com/kma-academy/inlets-heroku.git",
+  "website": "https://github.com/kma-academy/inlets-heroku",
   "logo": "https://raw.githubusercontent.com/inlets/inlets/master/docs/inlets-logo-sm.png",
   "env": {
     "TOKEN": {
