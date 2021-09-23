@@ -16,7 +16,7 @@ Tutorial on LinkedIn: [Set your own "ngrok alternative"​ on Heroku](https://ww
 
 Just click this button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ngxson/inlets-heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kma-academy/inlets-heroku/tree/master)
 
 P/s: for the password, you can choose a simple one like `this1sMypassw0rd`
 
